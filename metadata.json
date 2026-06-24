@@ -1,0 +1,6 @@
+{
+  "name": "Shree Library",
+  "description": "Premium 24x7 study space in Mau with smart seating layouts, automated plan bookings, UPI fees tracking, and an integrated Library Guru AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
